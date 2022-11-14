@@ -1,0 +1,25 @@
+.homepage {
+  height: 100vh;
+}
+
+.teks {
+  top: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.lihat-data {
+  margin-top: 40px 0;
+}
+
+.lihat-data .tombol-tambah {
+  margin: 20px 0;
+}
+
+.lihat-data > .ukuran-huruf {
+  font-size: 1em;
+}
+
+.content {
+  height: 100vh;
+}
